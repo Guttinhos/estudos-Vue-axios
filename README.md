@@ -1,4 +1,4 @@
-# termal
+# Estudo de como utilizar o axios e manipulando o DOM
 
 ## Project setup
 ```
